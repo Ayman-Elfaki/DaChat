@@ -105,8 +105,10 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <None Include="DaChat.UWP_TemporaryKey.pfx" />
+    <None Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\demo.gif" />
     <Content Include="Assets\AppList\AppList.scale-100.png" />
     <Content Include="Assets\AppList\AppList.scale-125.png" />
     <Content Include="Assets\AppList\AppList.scale-150.png" />
